@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.titulo{
+    text-align: center;
+}
+.titulo h1{
+    color: #0066CC;
+    font-family: 'Oswald', sans-serif;
+}
+
+.info p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.formulario{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.formulario input[type="text"]{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    padding: 6px 12px !important;
+}
