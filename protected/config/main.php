@@ -30,8 +30,8 @@ return array(
     'components' => array(
         'sendGrid' => array(
             'class' => 'ext.sendgrid.YiiSendGrid',
-            'username' => 'gerardocanas',
-            'password' => 'Figaro123$',
+            'username' => '',
+            'password' => '',
         ),
         'user' => array(
             // enable cookie-based authentication
